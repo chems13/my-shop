@@ -1,4 +1,4 @@
-export const products = [
+export const product = [
   // Électronique
   {
     id: 1,
